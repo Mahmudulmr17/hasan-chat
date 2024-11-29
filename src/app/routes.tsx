@@ -1,5 +1,5 @@
 import { createBrowserRouter } from "react-router";
-import { ProtectedRoute } from "@components/auth";
+import { ProtectedRoute } from "@lib/auth";
 import { Login, Register } from "./auth";
 import { Home } from "./home";
 
