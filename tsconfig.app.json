@@ -18,7 +18,8 @@
     // paths
     "paths": {
       "@ui/*": ["./src/components/ui/*"],
-      "@lib/*": ["./src/lib/*"]
+      "@lib/*": ["./src/lib/*"],
+      "@components/*": ["./src/components/*"]
     },
 
     /* Linting */
